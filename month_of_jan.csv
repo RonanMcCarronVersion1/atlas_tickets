@@ -1,0 +1,280 @@
+﻿Employee Name,Customer Name,Project ID,Project Name,IPC Number,IPC Title,IPC Status,IPC Priority,IPC Contact,Unique Client Code,Chargeable IPC?,Activity Name,Hours Spent,On-site?,Date,From Time,To Time,Comment
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,339664,Invalid Contract,Closed,Priority 5,Darren.Force@BudgetEnergy.co.uk,,No,Incident Management,1.25,No,03/01/2023,13:30,14:45,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,1,No,03/01/2023,08:00,09:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45445,Mix fuel information updated on bills,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,0.5,No,03/01/2023,12:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45445,Mix fuel information updated on bills,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,0.5,No,03/01/2023,13:00,13:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,1.25,No,03/01/2023,14:45,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,03/01/2023,16:00,16:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,81978,EBRS Scheme,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,4,No,03/01/2023,09:00,13:00,"Code Merge, Release, smoke tests, comms 2.0 CHG0045182 EBRS: commercial customers tariffs 2.0 CHG0045353 EBRS: billing changes"
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45410,Extra bank holiday for the Coronation .,Review,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,2,No,03/01/2023,13:00,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,339655,Opsview Alert: be-srv-production - CRITICAL - Apache active sessions,Closed,Priority 4,akshay.suryawanshi@version1.com,,No,Incident Management,0.5,No,03/01/2023,15:00,15:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,339550,Qliksense not updating - 3/01/2022,Resolved,Priority 3,jordan.kr@budgetenergy.co.uk,,No,Incident Management,0.5,No,03/01/2023,15:30,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,1,No,03/01/2023,11:00,12:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45445,Mix fuel information updated on bills,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,2,No,04/01/2023,11:00,13:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,339920,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,Karl.Greiner@version1.com,,No,Incident Management,0.5,No,04/01/2023,11:00,11:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,04/01/2023,09:00,11:00,QA Report
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,3,No,04/01/2023,08:00,11:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,339947,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,Karl.Greiner@version1.com,,No,Incident Management,0.5,No,04/01/2023,11:30,12:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42159,BACs - CSV file,Closed,Priority 4,cormac.mccrory@version1.com,,No,Change Request,3,No,04/01/2023,13:00,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,2,No,04/01/2023,13:00,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,General,1.5,No,04/01/2023,15:00,16:30,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,2.5,No,04/01/2023,13:30,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42159,BACs - CSV file,Closed,Priority 4,cormac.mccrory@version1.com,,No,Change Request,0.5,No,04/01/2023,12:00,12:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,44286,EPG: Phase 3 PLACEHOLDER,New,Priority 4,cormac.mccrory@version1.com,,Yes,General,0.5,No,05/01/2023,08:00,08:30,Catch up on EPG & EBRS updates
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,05/01/2023,15:00,15:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,44286,EPG: Phase 3 PLACEHOLDER,New,Priority 4,cormac.mccrory@version1.com,,Yes,General,0.75,No,05/01/2023,15:30,16:15,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,05/01/2023,09:15,09:30,Budget Stand-up
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,1,No,05/01/2023,08:00,09:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45930,BACs whitespace,Closed,Priority 4,finola.young@version1.com,,No,Change Request,1.5,No,05/01/2023,10:00,11:30,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3.5,No,05/01/2023,09:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,1,No,05/01/2023,09:00,10:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,1,No,05/01/2023,09:00,10:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45968,Tariff Data Extract,New,Priority 4,finola.young@version1.com,,Yes,Change Request,3,No,05/01/2023,13:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,340247,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,Karl.Greiner@version1.com,,No,Incident Management,0.5,No,05/01/2023,11:30,12:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45968,Tariff Data Extract,New,Priority 4,finola.young@version1.com,,Yes,Change Request,0.5,No,05/01/2023,12:00,12:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45445,Mix fuel information updated on bills,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,1,No,05/01/2023,10:00,11:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,44353,BED-290 (part2) Make sure Estimate readings are billable,Implement,Priority 4,finola.young@version1.com,,Yes,Change Request,4,No,05/01/2023,11:00,15:00,"Merge code, smoke tests, release notes, cab review"
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,06/01/2023,09:15,09:30,Budget Stand-up
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45968,Tariff Data Extract,New,Priority 4,finola.young@version1.com,,Yes,Change Request,4.5,No,06/01/2023,08:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45968,Tariff Data Extract,New,Priority 4,finola.young@version1.com,,Yes,Change Request,1,No,06/01/2023,13:00,14:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,81978,EBRS Scheme,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.5,No,06/01/2023,09:45,10:15,"Creating and linking appropriate tickets for RITM0081978, RITM0082031, RITM0082035, RITM0082083, RITM0082030"
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45987,Whitelist IP address for Access to CRM,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Change Request,1,No,09/01/2023,10:30,11:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45968,Tariff Data Extract,New,Priority 4,finola.young@version1.com,,Yes,Change Request,1,No,09/01/2023,11:30,12:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82316,Climate Chage Levy Update Required,On Hold,Priority 4,manuel.montosa@version1.com,,No,Change Request,1.25,No,09/01/2023,10:15,11:30,82316
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,0.5,No,09/01/2023,10:00,10:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45930,BACs whitespace,Closed,Priority 4,finola.young@version1.com,,No,Change Request,2,No,09/01/2023,11:30,13:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,3,No,09/01/2023,14:00,17:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,82301,Bank Account Data extract,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,Yes,Service Request,2,No,09/01/2023,14:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,1.5,No,09/01/2023,08:00,09:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,09/01/2023,09:15,09:30,Budget Stand-up
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,1,No,09/01/2023,13:00,14:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46058,EMMA Maintenance - Stop Sending Messages,Closed,Priority 4,manuel.montosa@version1.com,,No,Change Request,1,No,09/01/2023,14:00,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,45987,Whitelist IP address for Access to CRM,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Change Request,1,No,09/01/2023,15:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45445,Mix fuel information updated on bills,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,0.5,No,09/01/2023,09:30,10:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3,No,09/01/2023,14:00,17:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45968,Tariff Data Extract,New,Priority 4,finola.young@version1.com,,Yes,Change Request,1,No,09/01/2023,13:00,14:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45182,EBRS: commercial customers tariffs,Closed,Priority 4,finola.young@version1.com,,Yes,General,0.25,No,09/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45182,EBRS: commercial customers tariffs,Closed,Priority 4,finola.young@version1.com,,Yes,General,0.25,No,10/01/2023,09:00,09:15,Daily Standup
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,10/01/2023,14:00,14:30,"Risk meeting with Lynne, Peter & Juan"
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45987,Whitelist IP address for Access to CRM,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Change Request,1.75,No,10/01/2023,10:15,12:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82316,Climate Chage Levy Update Required,On Hold,Priority 4,manuel.montosa@version1.com,,No,Service Request,1,No,10/01/2023,14:00,15:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.75,No,10/01/2023,10:45,11:30,Preparing and delivering weekly report
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,10/01/2023,14:30,14:45,Sending weekly report summary
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3,No,10/01/2023,13:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,341329,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,akshay.suryawanshi@version1.com,,No,Incident Management,0.5,No,10/01/2023,12:30,13:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82035,BED-290: The ability to bill monthly for commercial customers on multi rate tariffs,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.5,No,10/01/2023,15:00,15:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.75,No,10/01/2023,16:00,16:45,Budget Energy Risk Meeting
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,3,No,10/01/2023,13:00,16:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,10/01/2023,09:15,09:30,Budget Stand-up
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,0.5,No,10/01/2023,08:00,08:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,341321,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 4,akshay.suryawanshi@version1.com,,No,Incident Management,0.5,No,10/01/2023,12:00,12:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,10/01/2023,13:00,15:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,2.5,No,10/01/2023,10:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,1.5,No,10/01/2023,08:30,10:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,341632,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 4,akshay.suryawanshi@version1.com,,No,Incident Management,0.5,No,11/01/2023,12:00,12:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,11/01/2023,09:15,09:30,Budget Stand-up
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,4.5,No,11/01/2023,08:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46058,EMMA Maintenance - Stop Sending Messages,Closed,Priority 4,manuel.montosa@version1.com,,No,Change Request,1,No,11/01/2023,13:00,14:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,11/01/2023,13:00,15:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,341607,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,sarath.babumacha@version1.com,,No,Incident Management,0.5,No,11/01/2023,11:30,12:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82382,EMMA Maintenance - Stop Sending Messages,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Service Request,1.75,No,11/01/2023,15:15,17:00,82382
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,81978,EBRS Scheme,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,1,No,11/01/2023,15:00,16:00,Tariff report for Graeme
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,11/01/2023,16:30,16:45,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.25,No,11/01/2023,14:45,15:00,Discussions with Graeme
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,44286,EPG: Phase 3 PLACEHOLDER,New,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.25,No,11/01/2023,15:45,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45182,EBRS: commercial customers tariffs,Closed,Priority 4,finola.young@version1.com,,Yes,General,0.25,No,11/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,1,No,11/01/2023,12:30,13:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Change Request,2,No,11/01/2023,14:00,16:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3,No,12/01/2023,13:00,16:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,44286,EPG: Phase 3 PLACEHOLDER,New,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.25,No,12/01/2023,15:15,15:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45182,EBRS: commercial customers tariffs,Closed,Priority 4,finola.young@version1.com,,Yes,General,0.25,No,12/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82382,EMMA Maintenance - Stop Sending Messages,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Change Request,0.5,No,12/01/2023,10:30,11:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,General,1,No,12/01/2023,14:00,15:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,44286,EPG: Phase 3 PLACEHOLDER,New,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.75,No,12/01/2023,10:30,11:15,Call with Graeme
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,82369,EBBS payment data for DD customers,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Change Request,4,No,12/01/2023,08:00,12:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82382,EMMA Maintenance - Stop Sending Messages,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Change Request,0.5,No,12/01/2023,15:00,15:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,0.75,No,12/01/2023,13:00,13:45,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2.25,No,12/01/2023,13:45,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,342047,Tariff Contract End Date,Closed,Priority 4,cormac.mccrory@version1.com,,No,Incident Management,1.75,No,12/01/2023,15:00,16:45,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,2,No,12/01/2023,13:00,15:00,"Requirements review meeting, pending tasks review"
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,12/01/2023,13:00,14:00,Internal meeting
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,12/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82382,EMMA Maintenance - Stop Sending Messages,Closed,Priority 4,Darren.Force@BudgetEnergy.co.uk,,No,Service Request,0.75,No,12/01/2023,16:15,17:00,82382
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45910,Fix Contract End Date,Closed,Priority 4,finola.young@version1.com,,No,Change Request,0.5,No,12/01/2023,12:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42184,date_modified field is null on sp-sa table,Fix in Progress,Priority 5,finola.young@version1.com,,No,General,1.5,No,13/01/2023,10:30,12:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,0.5,No,13/01/2023,12:00,12:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,0.25,No,13/01/2023,15:30,15:45,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,2.25,No,13/01/2023,11:15,13:30,RC8.11.1 UAT Setup
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,13/01/2023,13:00,14:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,13/01/2023,15:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,1,No,13/01/2023,14:00,15:00,RC8.11.1 UAT Setup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,42159,BACs - CSV file,Closed,Priority 4,cormac.mccrory@version1.com,,No,Change Request,0.75,No,13/01/2023,10:30,11:15,QA Uat bacs file
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,2,No,13/01/2023,13:00,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,13/01/2023,16:30,16:45,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,13/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,45182,EBRS: commercial customers tariffs,Closed,Priority 4,finola.young@version1.com,,Yes,General,0.25,No,13/01/2023,09:00,09:15,Daily Standup
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,45593,EPG: Hide EPG tariffs,Closed,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2.5,No,13/01/2023,08:00,10:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,44286,EPG: Phase 3 PLACEHOLDER,New,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.5,No,16/01/2023,08:45,09:15,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,1,No,16/01/2023,13:00,14:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,45144,EPG: Finance report,New,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.5,No,16/01/2023,12:45,13:15,"Ticket Maintenance: CHG0045144, RITM0083165, CHG0044286, RITM0082083, CHG0045968, RITM0081175, CHG0045987, RITM0082340, CHG0044199, RITM0083168"
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,3,No,16/01/2023,13:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,16/01/2023,09:00,09:15,Daily StandUp
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,Change Request,1.5,No,16/01/2023,09:30,11:00,Release 8.11.1 UAT
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,2.5,No,16/01/2023,11:00,13:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,0.5,No,16/01/2023,13:30,14:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,16/01/2023,09:00,11:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,16/01/2023,16:00,16:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,343046,Missing Tariff Versions,Closed,Priority 3,juan.villagrana@version1.com,,No,Incident Management,2,No,16/01/2023,14:00,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,2,No,16/01/2023,11:00,13:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,16/01/2023,09:15,09:30,Budget Stand-up
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,4.5,No,16/01/2023,08:00,12:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,16/01/2023,11:45,12:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,17/01/2023,09:15,09:30,Budget Stand-up
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83301,EPG roll back tariffs,In Progress,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,0.5,No,17/01/2023,12:30,13:00,Call with Graeme to discuss RITM0083301 & RITM0083304
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.25,No,17/01/2023,09:45,10:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,17/01/2023,16:00,16:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46212,Recover incorrectly deleted tariff - tariff version associations,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,2,No,17/01/2023,14:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,4.5,No,17/01/2023,08:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,3,No,17/01/2023,13:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,17/01/2023,09:00,09:15,Daily StandUp
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,1,No,17/01/2023,12:30,13:30,RC8.11.1 CAB
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,4,No,17/01/2023,09:00,13:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,1,No,17/01/2023,13:00,14:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,343115,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,sarath.babumacha@version1.com,,No,General,0.5,No,17/01/2023,12:00,12:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.25,No,17/01/2023,08:30,08:45,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,18/01/2023,09:15,09:30,Budget Stand-up
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,0.5,No,18/01/2023,13:00,13:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,83304,EBSS DD customers bank changes,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,3,No,18/01/2023,13:00,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,18/01/2023,16:00,16:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.5,No,18/01/2023,11:30,12:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,343754,Welcome Packs incorrect unit rates,Resolved,Priority 3,cormac.mccrory@version1.com,,No,Incident Management,1,No,18/01/2023,13:00,14:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,4.5,No,18/01/2023,08:00,12:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.75,No,18/01/2023,10:45,11:30,Preparing and delivering weekly report
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46212,Recover incorrectly deleted tariff - tariff version associations,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,2,No,18/01/2023,14:00,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,2,No,18/01/2023,09:00,11:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,2,No,18/01/2023,11:00,13:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,2.25,No,18/01/2023,11:15,13:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,343428,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,akshay.suryawanshi@version1.com,,No,General,0.5,No,18/01/2023,10:45,11:15,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,18/01/2023,09:00,09:15,Daily StandUp
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3,No,19/01/2023,09:00,12:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,Service Request,2.25,No,19/01/2023,10:15,12:30,QA - RITM0082369 EBSS Data Extract
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,19/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,19/01/2023,09:00,09:15,Daily StandUp
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,6,No,19/01/2023,09:00,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,19/01/2023,16:00,16:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,343825,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 3,adwait.patil@version1.com,,No,General,0.5,No,19/01/2023,12:30,13:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,3,No,19/01/2023,13:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,83304,EBSS DD customers bank changes,Closed,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,4.5,No,19/01/2023,08:00,12:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,2.25,No,19/01/2023,14:00,16:15,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,20/01/2023,13:00,14:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,20/01/2023,09:15,09:30,Budget Stand-up
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,20/01/2023,12:15,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,3.5,No,20/01/2023,09:00,12:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,2,No,20/01/2023,13:00,15:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.5,No,20/01/2023,14:00,14:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,20/01/2023,09:00,09:15,Daily StandUp
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,343913,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 4,sarath.babumacha@version1.com,,No,Incident Management,1,No,20/01/2023,08:00,09:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,20/01/2023,16:00,16:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,4,No,20/01/2023,09:00,13:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,2,No,20/01/2023,15:00,17:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,1,No,20/01/2023,13:00,14:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,3.25,No,20/01/2023,10:15,13:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,20/01/2023,11:15,11:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,20/01/2023,15:00,15:15,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,20/01/2023,15:00,16:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,23/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,23/01/2023,09:00,09:15,Daily Standup
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,23/01/2023,17:00,17:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,339550,Qliksense not updating - 3/01/2022,Resolved,Priority 3,jordan.kr@budgetenergy.co.uk,,No,Incident Management,2,No,23/01/2023,12:00,14:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,344629,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 4,sarath.babumacha@version1.com,,No,General,0.5,No,23/01/2023,13:30,14:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,23/01/2023,11:15,11:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,23/01/2023,09:00,11:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.25,No,23/01/2023,11:30,11:45,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.5,No,23/01/2023,15:00,15:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,2,No,23/01/2023,11:30,13:30,Troubleshooting duplicate commercial tariffs
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,23/01/2023,15:45,16:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3.5,No,23/01/2023,10:00,13:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,2,No,23/01/2023,09:30,11:30,Hiding non-ebrs tariffs from CRM
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,3,No,23/01/2023,14:00,17:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,23/01/2023,09:45,10:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,345023,Opsview Alert: be-srv-production -CRITICAL - Apache active sessions,Closed,Priority 4,catarina.fon@version1.com,,No,General,0.5,No,24/01/2023,13:00,13:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,2,No,24/01/2023,15:00,17:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,24/01/2023,17:00,17:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,2.75,No,24/01/2023,09:45,12:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,24/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,344968,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Closed,Priority 4,akshay.suryawanshi@version1.com,,No,General,0.5,No,24/01/2023,12:30,13:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,2,No,24/01/2023,12:30,14:30,"Final rsync testing, speaking with Darren Force regarding SAS token for AZcopy"
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,24/01/2023,09:15,09:30,Budget Stand-up
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,344698,SFTP Server,Closed,Priority 4,cormac.mccrory@version1.com,,No,Incident Management,0.25,No,24/01/2023,09:45,10:00,"Ticket maintenance for: INC00344698, INC0339550, INC0344868, INC0344870"
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,5,No,24/01/2023,09:00,14:00,QA Report
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,0.25,No,24/01/2023,13:45,14:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.75,No,24/01/2023,10:45,11:30,Preparing and delivering weekly report
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,25/01/2023,17:00,17:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,1,No,25/01/2023,16:00,17:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,3,No,25/01/2023,10:00,13:00,QA Report
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,1.5,No,25/01/2023,09:30,11:00,PRD- Commercial Tariffs creation
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,0.75,No,25/01/2023,16:15,17:00,QA Report
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,1,No,25/01/2023,09:00,10:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,25/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,25/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46152,Some standard tariffs need the standard tariff tick box ticked.,Review,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,3,No,25/01/2023,11:00,14:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,339550,Qliksense not updating - 3/01/2022,Resolved,Priority 3,jordan.kr@budgetenergy.co.uk,,No,Incident Management,2,No,25/01/2023,14:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,3,No,25/01/2023,13:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,4.5,No,25/01/2023,08:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,4,No,26/01/2023,08:30,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,345367,Opsview Alert: be-srv-production - CRITICAL - Apache active sessions,Closed,Priority 3,catarina.fon@version1.com,,No,Incident Management,0.5,No,26/01/2023,08:00,08:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,2.5,No,26/01/2023,10:00,12:30,QA Report
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.5,No,26/01/2023,13:00,13:30,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,26/01/2023,09:00,09:15,Daily Standup
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,0.25,No,26/01/2023,11:00,11:15,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,26/01/2023,09:15,09:30,Budget Stand-up
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,26/01/2023,17:00,17:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46152,Some standard tariffs need the standard tariff tick box ticked.,Review,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,1,No,26/01/2023,15:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.5,No,26/01/2023,15:00,15:30,Report of Commercials tariffs being created in PRD
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,4,No,26/01/2023,09:00,13:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46280,Resend Welcome Packs with correct unit rates,Closed,Priority 4,juan.villagrana@version1.com,,No,Change Request,3,No,26/01/2023,14:00,17:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,345367,Opsview Alert: be-srv-production - CRITICAL - Apache active sessions,Closed,Priority 3,catarina.fon@version1.com,,No,General,0.5,No,26/01/2023,16:30,17:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,2,No,26/01/2023,13:00,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,27/01/2023,09:00,11:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,339550,Qliksense not updating - 3/01/2022,Resolved,Priority 3,jordan.kr@budgetenergy.co.uk,,No,Incident Management,1.75,No,27/01/2023,11:00,12:45,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,345967,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Resolved,Priority 3,akshay.suryawanshi@version1.com,,No,General,0.5,No,27/01/2023,15:45,16:15,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46380,date_modified field is null on sp-sa table,Review,Priority 4,finola.young@version1.com,,No,Change Request,3.5,No,27/01/2023,09:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46380,date_modified field is null on sp-sa table,Review,Priority 4,finola.young@version1.com,,No,Change Request,1,No,27/01/2023,13:00,14:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,27/01/2023,08:00,09:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,81978,EBRS Scheme,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.5,No,27/01/2023,13:00,13:30,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,27/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,27/01/2023,09:00,09:15,Daily Standup
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,2,No,27/01/2023,15:00,17:00,Investigating AZCopy configuration now that Darren has provided an SAS key for the Azure blob storage account.
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46380,date_modified field is null on sp-sa table,Review,Priority 4,finola.young@version1.com,,No,Change Request,1,No,27/01/2023,13:00,14:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,42233,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,Specification,Priority 4,colleen.breslin@version1.com,,Yes,Change Request,1,No,27/01/2023,15:00,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,344868,Qlik reports Not updated,Resolved,Priority 2,Darren.Force@BudgetEnergy.co.uk,,No,Incident Management,1,No,30/01/2023,15:00,16:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,4,No,30/01/2023,09:00,13:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46152,Some standard tariffs need the standard tariff tick box ticked.,Review,Priority 4,graeme.cooper@budgetenergy.co.uk,,No,Change Request,1,No,30/01/2023,10:00,11:00,
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3,No,30/01/2023,10:00,13:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,30/01/2023,13:00,15:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,45592,EBRS: revert tariffs at end of scheme,New,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,0.25,No,30/01/2023,14:00,14:15,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,2,No,30/01/2023,08:00,10:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,30/01/2023,09:15,09:30,Budget Stand-up
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.5,No,30/01/2023,16:30,17:00,Code review feedback changes
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,0.25,No,30/01/2023,08:00,08:15,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,30/01/2023,16:00,16:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46380,date_modified field is null on sp-sa table,Review,Priority 4,finola.young@version1.com,,No,Change Request,1.5,No,30/01/2023,11:00,12:30,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,3,No,30/01/2023,13:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,30/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,4,No,30/01/2023,09:30,13:30,Including recently added Commercial Tariffs
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,31/01/2023,09:15,09:30,Budget Stand-up
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.5,No,31/01/2023,16:00,16:30,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,31/01/2023,12:00,14:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,346778,OpsView Alert - (be-srv-production) - (CRITICAL) - (Apache active sessions),Resolved,Priority 3,sarath.babumacha@version1.com,,No,Incident Management,1,No,31/01/2023,15:00,16:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,1.5,No,31/01/2023,14:30,16:00,Additional Tariff Added Changes after definition of rates precision point
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,3,No,31/01/2023,09:00,12:00,
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.75,No,31/01/2023,10:45,11:30,Preparing and delivering weekly report
+Daniel Pollock,Budget Energy Ltd,29765818,BMS - Managed Service,43359,BED-247: Improvement - Move CRM documents to remote directory,Development,Priority 4,cormac.mccrory@version1.com,,Yes,General,3,No,31/01/2023,14:00,17:00,
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.25,No,31/01/2023,09:00,09:15,Daily Standup
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,82031,BED-281: Background Bill generation for Customers to provide summary of Ledger balances,In Progress,Priority 4,cormac.mccrory@version1.com,,Yes,General,1.5,No,31/01/2023,11:30,13:00,Code Review
+Manuel Montosa,Budget Energy Ltd,29765818,BMS - Managed Service,46133,EBRS Tariff to be updated,Specification,Priority 4,manuel.montosa@version1.com,,Yes,Change Request,1.75,No,31/01/2023,09:45,11:30,Code review feedback changes
+Cormac McCrory,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Service Request,0.25,No,31/01/2023,14:45,15:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,83262,EPG: Finance Report - December,On Hold,Priority 4,cormac.mccrory@version1.com,,Yes,Change Request,2,No,31/01/2023,14:00,16:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,46380,date_modified field is null on sp-sa table,Review,Priority 4,finola.young@version1.com,,No,Change Request,1.5,No,31/01/2023,13:30,15:00,
+Finola Young,Budget Energy Ltd,29765818,BMS - Managed Service,83301,EPG roll back tariffs,In Progress,Priority 4,graeme.cooper@budgetenergy.co.uk,,Yes,Service Request,4,No,31/01/2023,08:00,12:00,
+Juan Villagrana,Budget Energy Ltd,29765818,BMS - Managed Service,,,,,,,,General,0.5,No,31/01/2023,16:00,16:30,
